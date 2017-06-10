@@ -9,7 +9,7 @@ public class FourSquare {
 
 	void go() {
 		// 4. Make the robot move as fast as possible
-		john.setSpeed(10);
+		john.setSpeed(9000);
 
 		// 5. Set the pen width to 5
 		john.setPenWidth(5);
