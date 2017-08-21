@@ -1,8 +1,18 @@
 
 public class FibonacciSequence {
 	public static void main(String[] args) {
-		for (int number = 1; number < 12; number += number) {
-			System.out.println(number);
+		int num = 0;
+		int num1 = 1;
+		System.out.println(num1);
+		for (int i = 0; i < 11; i++) {
+			int num3 = num + num1;
+			System.out.println(num3);
+			num = num1;
+			num1 = num3;
+
+			
+		}
+	
 		}
 
 	}
@@ -19,4 +29,4 @@ public class FibonacciSequence {
 	 * 13, 21, 34, 55, 89, 144
 	 */
 
-}
+
