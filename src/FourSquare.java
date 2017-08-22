@@ -17,12 +17,12 @@ public class FourSquare {
 		// 6. Do steps #7 to #8 four times...
 
 			// 7. Set the pen color to random
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 360; i++) {
 			
 		
 		john.setRandomPenColor();
 		drawSquare();
-		john.turn(36);
+		john.turn(1);
 	}
 	
 
