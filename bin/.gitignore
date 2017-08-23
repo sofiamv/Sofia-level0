@@ -1,3 +1,4 @@
+/Age.class
 /AnimalFarm.class
 /BirthdayReminder.class
 /Candycrush.class
@@ -7,6 +8,7 @@
 /FizBuzz.class
 /ForLoopGauntlet.class
 /FourSquare.class
+/Gandalf.class
 /Goodmorningzombie.class
 /HighLow.class
 /Knockknockjoke.class
@@ -14,5 +16,5 @@
 /MyAges.class
 /NasaCountdown.class
 /PrimeFigureOuter.class
-/Age.class
-/Gandalf.class
+/GuessingPi.class
+/GoofyNames.class
