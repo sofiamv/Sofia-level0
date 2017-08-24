@@ -12,6 +12,5 @@ public static void main(String[] args) {
 	else if(agetwo>=18) {
 		JOptionPane.showMessageDialog(null, "You can watch all the movies! Good for you.");
 	}
-
 }
 }
