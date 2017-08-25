@@ -17,12 +17,13 @@ public class FourSquare {
 		// 6. Do steps #7 to #8 four times...
 
 			// 7. Set the pen color to random
-		for (int i = 0; i < 360; i++) {
-			
-		
+		String a = JOptionPane.showInputDialog("Enter in a number. But don't make it higher than 360.");
+		int i = Integer.parseInt(a);
+		int iii = i/360;
+		for (int ii = 0; ii < i; i++) {
 		john.setRandomPenColor();
 		drawSquare();
-		john.turn(1);
+		john.turn(iii);
 	}
 	
 
